@@ -1,0 +1,2 @@
+# Upload directory for product images
+This directory is used by Multer for storing uploaded product images.
